@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -273,5 +275,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
