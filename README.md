@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0733-flood-fill) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0289-game-of-life) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0130-surrounded-regions) |
+| [0289-game-of-life](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0733-flood-fill) |
