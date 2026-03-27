@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0386-lexicographical-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0733-flood-fill) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
