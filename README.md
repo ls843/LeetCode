@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1207-unique-number-of-occurrences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
