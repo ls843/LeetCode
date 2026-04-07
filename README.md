@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0177-nth-highest-salary) |
+| [1757-recyclable-and-low-fat-products](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1757-recyclable-and-low-fat-products) |
 ## Monotonic Stack
 |  |
 | ------- |
