@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0695-max-area-of-island) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0386-lexicographical-numbers) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0733-flood-fill) |
@@ -352,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
