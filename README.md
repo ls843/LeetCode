@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
