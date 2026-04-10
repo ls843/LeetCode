@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Rolling Hash
 |  |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
