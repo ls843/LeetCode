@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0389-find-the-difference) |
