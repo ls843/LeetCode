@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
