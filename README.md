@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting Sort
 |  |
 | ------- |
