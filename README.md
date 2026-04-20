@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
+| [1052-grumpy-bookstore-owner](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
+| [1052-grumpy-bookstore-owner](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1695-maximum-erasure-value](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1695-maximum-erasure-value) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
