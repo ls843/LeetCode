@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
