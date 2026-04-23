@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
+| [1302-deepest-leaves-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
+| [1302-deepest-leaves-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Rolling Hash
 |  |
