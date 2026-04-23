@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0696-count-binary-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0696-count-binary-substrings) |
