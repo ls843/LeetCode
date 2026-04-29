@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0389-find-the-difference) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Rolling Hash
@@ -419,4 +423,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
