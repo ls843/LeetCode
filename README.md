@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0056-merge-intervals) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0371-sum-of-two-integers) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0542-01-matrix) |
