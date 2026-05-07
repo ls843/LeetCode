@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting Sort
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0094-binary-tree-inorder-traversal) |
 | [0735-asteroid-collision](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2390-removing-stars-from-a-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
