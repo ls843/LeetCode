@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2553-separate-the-digits-in-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2553-separate-the-digits-in-an-array) |
 ## String Matching
 |  |
 | ------- |
