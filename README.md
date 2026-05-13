@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1254-number-of-closed-islands) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1207-unique-number-of-occurrences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1695-maximum-erasure-value) |
