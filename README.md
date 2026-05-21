@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Divide and Conquer
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2390-removing-stars-from-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2390-removing-stars-from-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0386-lexicographical-numbers) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
