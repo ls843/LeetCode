@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
