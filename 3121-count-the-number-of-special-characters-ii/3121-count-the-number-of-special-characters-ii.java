@@ -4,20 +4,19 @@ class Solution {
         int count = 0;
 
         for(int i = 0; i < word.length(); i++) {
-            if(Character.isLowerCase(word.charAt(i))) map.put(word.charAt(i), i);
-            if(Character.isUpperCase(word.charAt(i))) map.putIfAbsent(word.charAt(i), i);
+            if(Character.isLowerCase(word.charAt(i))) {
+                map.put(word.charAt(i), i);
+            } else {
+                map.putIfAbsent(word.charAt(i), i);
+            }
         }
 
-        for(int i = 0; i < word.length(); i++) {
-            char lower = Character.toLowerCase(word.charAt(i));
-            char upper = Character.toUpperCase(word.charAt(i));
+        for(char ch = 'a'; ch <= 'z'; ch++) {
+            char upper = Character.toUpperCase(ch);
 
-            if(map.containsKey(lower) && map.containsKey(upper)) {
-                if(map.get(lower) < map.get(upper)) {
+            if(map.containsKey(ch) && map.containsKey(upper)) {
+                if(map.get(ch) < map.get(upper)) {
                     count++;
-
-                    map.remove(lower); 
-                    map.remove(upper); 
                 }
             }
         }
