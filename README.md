@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0763-partition-labels](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0763-partition-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0389-find-the-difference) |
+| [0763-partition-labels](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1207-unique-number-of-occurrences) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0763-partition-labels) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
