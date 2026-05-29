@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting Sort
 |  |
