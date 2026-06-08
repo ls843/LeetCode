@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0079-word-search) |
 | [0290-word-pattern](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0389-find-the-difference) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0542-01-matrix) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0100-same-tree) |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0113-path-sum-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Design
