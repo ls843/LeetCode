@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2126-destroying-asteroids](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2553-separate-the-digits-in-an-array) |
 ## String Matching
