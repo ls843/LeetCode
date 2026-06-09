@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0371-sum-of-two-integers) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/0113-path-sum-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
