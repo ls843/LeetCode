@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2126-destroying-asteroids](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2126-destroying-asteroids) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
