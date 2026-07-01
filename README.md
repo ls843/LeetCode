@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2126-destroying-asteroids](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2126-destroying-asteroids) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
