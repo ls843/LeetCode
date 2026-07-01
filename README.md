@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3689-maximum-total-subarray-value-i) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ls843/LeetCode-Top-Interview-150/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Counting
 |  |
 | ------- |
